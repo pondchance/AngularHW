@@ -1,0 +1,21 @@
+body{
+    font-family: helvetica; 
+    /*text-align: center;*/
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+a{  
+   
+    text-decoration:none;
+    color: white;
+    text-shadow: -1px 0px #66CCCC, -2px -1px #66CCCC, 1px 0px #FFCC00, 2px 1px #FFCC00; color: #000;
+}
+a:hover{
+    
+    text-decoration:none;
+    color: yellow;
+}
+nav{
+    font-size: 40px;
+}
