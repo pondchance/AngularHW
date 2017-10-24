@@ -1,14 +1,14 @@
 body{
     font-family: helvetica; 
     /*text-align: center;*/
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     padding: 50px;
 }
 a{  
    
     text-decoration:none;
-    color: white;
+    
     text-shadow: -1px 0px #66CCCC, -2px -1px #66CCCC, 1px 0px #FFCC00, 2px 1px #FFCC00; color: #000;
 }
 a:hover{
@@ -17,5 +17,9 @@ a:hover{
     color: yellow;
 }
 nav{
+   
+    border: 2px double #FFCC00;
     font-size: 40px;
+    background-color: black;
+    padding: 10px;
 }

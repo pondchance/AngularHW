@@ -1,14 +1,13 @@
 img{
    
-    
-    padding:10px;
     border-style: double;
-    border-color: white;
+    border-color: #FFFFFF;
+
 }
-body{
-    font-family: helvetica; 
-    /*text-align: center;*/
-    background-color: black;
-    color: white;
-    padding: 50px;
+
+
+p{
+    
+text-align: justify; 
+width: 395px;
 }
